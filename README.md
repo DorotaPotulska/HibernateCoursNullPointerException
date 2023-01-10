@@ -1,1 +1,1 @@
-# Hibernate_kursNullPointerException
+# HibernateCoursNullPointerException
